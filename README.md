@@ -1,5 +1,8 @@
 # rajendrakhope.com Project
 
+[![Build and Push Docker Image](https://github.com/bkrajendra/rajendrakhope/actions/workflows/build-image.yaml/badge.svg)](https://github.com/bkrajendra/rajendrakhope/actions/workflows/build-image.yaml)
+
+
 A simple containerized personal website along with GitHub Actions
 
 ## Project Structure
