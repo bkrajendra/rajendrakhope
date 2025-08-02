@@ -11,7 +11,7 @@ A simple containerized personal website along with GitHub Actions
 rajendrakhope.com
 ├── .github
 │   └── workflows
-│       └── docker-image.yml
+│       └── build-image.yml
 ├── Dockerfile
 ├── rajendra_profile.html
 └── README.md
